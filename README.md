@@ -31,7 +31,7 @@ int main()
     }
     for(i=0;i<5;i++)
     {
-        if(vcount[i]!=0)
+        if(v[i]!=0)
         {
             printf("%c --> %d\n", vowels[i], v[i]);
         }
